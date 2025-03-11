@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ gkcama-dev?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/ gkcama-dev?style=social"> &nbsp;&nbsp; <img alt="Geeth Kalhara | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Geeth+Kalhara+%3C3;!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Geeth+Kalhara+;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
@@ -33,8 +33,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= gkcama-dev&layout=compact&show_icon=true&theme=algolia" alt=" gkcama-dev-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username= gkcama-dev&layout=compact&show_icon=true&theme=algolia" alt=" gkcama-dev-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= gkcama-dev&layout=compact&show_icon=true&theme=algolia" alt="gkcama-devlangs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username= gkcama-dev&layout=compact&show_icon=true&theme=algolia" alt="gkcama-devstats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user= gkcama-dev&theme=algolia&background=0d1117&hide_border=true" />
