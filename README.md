@@ -54,16 +54,6 @@
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
             alt="figma" width="50" height="50" />
 <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"
-            alt="firebase" width="50" height="50" />
-<img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg"
-            alt="flutter" width="50" height="50" />
-<img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg"
-            alt="gcp" width="50" height="50" />  
-
-<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
             alt="java" width="50" height="50" /> 
 <img
