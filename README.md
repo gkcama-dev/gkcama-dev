@@ -18,10 +18,6 @@
 - 🤝 I'm looking for help with **Scholarly**
 - ⚡ Fun fact: *I turn coffee into code and ideas into reality, one keystroke at a time!*
 
-### Tech Stack & Interests:
-
-- ● Ask me about **HTML, CSS, JS, JAVA**
-
 ### Contact Me:
 
 - 👤 How to reach me **[kalhara139@gmail.com](mailto:kalhara139@gmail.com)**
