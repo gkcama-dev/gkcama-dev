@@ -68,9 +68,3 @@
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2025 gkcama-dev
 </div>
-
-------
-
-
-
-Last Edited on: 22/12/2021
