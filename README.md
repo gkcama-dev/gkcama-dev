@@ -30,25 +30,96 @@
 
 #### **Programming Languages:**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"
+            alt="angularjs" width="50" height="50" /> 
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"
+            alt="css3" width="50" height="50" /> 
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg"
+            alt="angularjs" width="50" height="50" />
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg"
+            alt="angular" width="50" height="50" />
+ <img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"
+            alt="arduino" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg"
+            alt="aws" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"
+            alt="babel" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"
+            alt="dotnet" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"
+            alt="figma" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"
+            alt="firebase" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg"
+            alt="flutter" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg"
+            alt="gcp" width="50" height="50" />  
+
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
+            alt="java" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"
+            alt="kotlin" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
+            alt="laravel" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"
+            alt="linux" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg"
+            alt="matlab" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
+            alt="mongodb" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"
+            alt="mssql" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Dark.svg"
+            alt="nativescript" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"
+            alt="nodejs" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg"
+            alt="php" width="50" height="50" /> 
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"
+            alt="postman" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"
+            alt="python" width="50" height="50" /> 
+
+
 
 #### **Tools & IDEs:**
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
-![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg"
+            alt="blender" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
+            alt="html5" width="50" height="50" />
+<img
+            src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-photoshop-icon-download-in-svg-png-gif-file-formats--logo-ps-products-pack-design-development-icons-3516519.png?f=webp&w=256"
+            alt="illustrator" width="50" height="50" />
+<img
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"
+            alt="invision" width="50" height="50" />
 
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
