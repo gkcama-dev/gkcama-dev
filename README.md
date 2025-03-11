@@ -57,14 +57,8 @@
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
             alt="java" width="50" height="50" /> 
 <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
-            alt="laravel" width="50" height="50" />
-<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"
             alt="linux" width="50" height="50" /> 
-<img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg"
-            alt="matlab" width="50" height="50" /> 
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"
             alt="mongodb" width="50" height="50" /> 
@@ -72,7 +66,7 @@
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"
             alt="mssql" width="50" height="50" /> 
 <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/ReactiveX-Dark.svg"
+            src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"
             alt="nativescript" width="50" height="50" /> 
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"
@@ -103,6 +97,9 @@
 <img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"
             alt="invision" width="50" height="50" />
+<img
+            src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-illustrator-icon-download-in-svg-png-gif-file-formats--logo-ai-products-pack-design-development-icons-3516509.png?f=webp&w=256"
+            alt="illustrator" width="50" height="50" /> 
 
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
