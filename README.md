@@ -57,9 +57,6 @@
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg"
             alt="java" width="50" height="50" /> 
 <img
-            src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg"
-            alt="kotlin" width="50" height="50" /> 
-<img
             src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
             alt="laravel" width="50" height="50" />
 <img
