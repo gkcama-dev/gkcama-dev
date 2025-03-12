@@ -53,7 +53,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="Google Cloud" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="50" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" width="50" height="50" />
