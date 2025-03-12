@@ -67,7 +67,7 @@
 
 ---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:tien.huynhlt.tn@gmail.com" >
     <img align="center" alt="gkcama-dev | Gmail" width="35px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
