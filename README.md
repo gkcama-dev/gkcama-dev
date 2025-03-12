@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=800&lines=I'm+Geeth+Kalhara+;Welcome+to+my+GitHub+Profile!" alt="Title"/>
