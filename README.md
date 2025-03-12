@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=800&lines=I'm+Geeth+Kalhara+;Welcome+to+my+GitHub+Profile!" alt="Title"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2338C2FF&size=60&center=true&vCenter=true&height=60&width=800&lines=I'm+Geeth+Kalhara+;Welcome+to+my+GitHub+Profile!" alt="Title"/>
 </div>
 
 ---
