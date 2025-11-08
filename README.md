@@ -14,7 +14,6 @@
 
 💡 *Turning complex problems into elegant solutions.*
 
-- 🛠 Building TuteM – because innovation never stops.
 - 📖 Diving deep into Java – one line of code at a time.
 - 🔥 Looking to collaborate on ZGenCRMS – let’s build something amazing!
 - 🤝 Seeking minds to shape Scholarly – knowledge deserves great tech.
