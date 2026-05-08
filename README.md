@@ -68,22 +68,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gkcama-dev&theme=algolia&hide_border=true&background=0d1117&stroke=38C2FF&ring=38C2FF&fire=f59e0b&currStreakLabel=38C2FF&border_radius=10" alt="Contribution Streak" />
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=gkcama-dev&show_icons=true&theme=algolia&count_private=true&hide_border=true&include_all_commits=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkcama-dev&theme=algolia&hide_border=true&layout=compact"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gkcama-dev&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%"/>
 
 ---
 
