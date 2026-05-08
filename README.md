@@ -85,8 +85,6 @@
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gkcama-dev&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=github-dark" width="100%"/>
-
 ---
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect With Me
