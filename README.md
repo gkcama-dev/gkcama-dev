@@ -6,8 +6,7 @@
 </div>
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
-
+<br>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2338C2FF&size=55&center=true&vCenter=true&height=60&width=900&lines=Welcome+to+My+GitHub+Profile!" alt="Title"/>
