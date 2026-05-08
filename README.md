@@ -83,20 +83,6 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect With Me
 
-<p align="center">
-  <a href="mailto:kalhara139@gmail.com">
-    <img align="center" alt="Geeth Kalhara | Gmail" width="35px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://linkedin.com/in/geeth-kalhara" target="_blank">
-    <img align="center" alt="Geeth Kalhara | Linkedin" width="35px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://github.com/gkcama-dev" target="_blank">
-    <img align="center" alt="Geeth Kalhara | GitHub" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a>
-</p>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geeth-kalhara)
