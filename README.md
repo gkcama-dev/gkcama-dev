@@ -1,14 +1,13 @@
 
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<br>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Geeth%20Kalhara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineering%20Undergraduate%20|%20Full%20Stack%20Developer%20|%20DevOps%20Enthusiast&descSize=15&descAlignY=51"/>
 
 </div>
-
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
-<br>
-
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2338C2FF&size=55&center=true&vCenter=true&height=60&width=900&lines=Welcome+to+My+GitHub+Profile!" alt="Title"/>
