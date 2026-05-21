@@ -28,6 +28,14 @@
 - ☕ Fun fact: My code runs on coffee and creativity.
 ---
 
+## 🏅 Certifications & Badges
+
+<div align="center">
+  <a href="https://github.com/nisalgunawardhana/Github-for-beginners">
+    <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/assets/badges/beginner-badge.png" width="130px" alt="GitHub for Beginners Badge" />
+  </a>
+</div>
+
 ## 🎨 Tech Stack & Tools
 
 ### 💻 Languages
