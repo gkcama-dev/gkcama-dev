@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/nisalgunawardhana/Github-for-beginners">
-    <img src="beginner-badge.png" width="140px" alt="GitHub for Beginners Badge" />
+    <img src="[beginner-badge.png](https://github.com/nisalgunawardhana/Github-for-beginners/blob/main/images/badge.png)" width="140px" alt="GitHub for Beginners Badge" />
   </a>
 </div>
 
