@@ -38,7 +38,6 @@
 
 <br>
 
-- **Docker for Absolute Beginners** – [KodeKloud](https://kodekloud.com) | [_Verify Certificate_](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.kodekloud.com%2Fcertificate%2Fe1918802-b3f1-4721-8927-86465169a42b&urlhash=PynP&mt=K_hTyC7CuKj9_Q9p4BiFPMvvdkuGiGE5-rbqz41dda5lpZHmQtgdOO6pKaEVykur0Coe_lCxBLbe8CLLumYoY_FRxgwv&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCAOkRXZXSBC%2FXmDKUZpbfA%3D%3D)
 ---
 
 ## 🎨 Tech Stack & Tools
