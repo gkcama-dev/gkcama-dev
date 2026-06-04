@@ -28,7 +28,7 @@
 - ☕ Fun fact: My code runs on coffee and creativity.
 ---
 
-## 🏅 Certifications & Badges
+## 🏅 Badges & Certifications 
 
 <div align="center">
   <a href="https://github.com/nisalgunawardhana/Github-for-beginners">
@@ -38,7 +38,7 @@
 
 <br>
 
-- **Docker for Absolute Beginners** – [KodeKloud](https://kodekloud.com) | [_Verify Certificate_](https://learn.kodekloud.com/user/certificate/e1918802-b3f1-4721-8927-86465169a42b)
+- **Docker for Absolute Beginners** – [KodeKloud](https://kodekloud.com) | [_Verify Certificate_](https://learn.kodekloud.com/certificate/e1918802-b3f1-4721-8927-86465169a42b)
 ---
 
 ## 🎨 Tech Stack & Tools
