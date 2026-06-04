@@ -34,11 +34,14 @@
   <a href="https://github.com/nisalgunawardhana/Github-for-beginners">
     <img src="badge.png" width="140px" alt="GitHub for Beginners Badge" />
   </a>
+  <a href="https://learn.kodekloud.com/user/certificate/e1918802-b3f1-4721-8927-86465169a42b" target="_blank">
+    <img src="https://img.shields.io/badge/Docker_Crash_Course-KodeKloud-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Certificate Badge" />
+  </a>
 </div>
 
 <br>
 
-- **Docker for Absolute Beginners** – [KodeKloud](https://kodekloud.com) | [_Verify Certificate_](https://learn.kodekloud.com/certificate/e1918802-b3f1-4721-8927-86465169a42b)
+- **Docker for Absolute Beginners** – [KodeKloud](https://kodekloud.com) | [_Verify Certificate_](https://learn.kodekloud.com/user/certificate/e1918802-b3f1-4721-8927-86465169a42b)
 ---
 
 ## 🎨 Tech Stack & Tools
